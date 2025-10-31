@@ -39,4 +39,14 @@ When you run the program, you will be presented with the following options:
 4.  **Display Stack:** Enter `4` to view the elements currently in the stack.
 5.  **Exit:** Enter `5` to terminate the program.
 
+## Technical Skills Demonstrated
 
+* **Programming Language:** C#
+* **Core Concepts:** Data Structures, Classes, Object-Oriented Design
+* **Algorithms:** Stack Operations (Push, Pop, Peek, isEmpty)
+* **Error Handling:** Validation for underflow conditions
+* **Development Environment:** Visual Studio / .NET
+
+## Purpose
+
+This project was completed as part of a closed-book test in COIS 2020 - Data Structures and Algorithms I at Trent University. The task required implementing a stack data structure in C# entirely from memory, without access to notes. I completed the project using Visual Studio Code, which allowed me to verify syntax accuracy while independently applying key data structure concepts, OOP principles, and algorithmic logic under time constraints. 
