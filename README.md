@@ -17,17 +17,17 @@ A stack is a linear data structure that follows the Last-In, First-Out (LIFO) pr
 
 The project consists of two main classes:
 
-* **`Node`:** Represents a single node in the linked list that forms the stack. Each node contains:
-    * `data`: An integer value stored in the node.
-    * `next`: A reference to the next node in the stack (null if it's the top node).
-* **`Stack`:** Implements the stack data structure. It contains:
-    * `top`: A private `Node` variable that points to the top of the stack (null if the stack is empty).
-    * `Stack()`: Constructor to initialize an empty stack (sets `top` to null).
-    * `isEmpty()`: A method to check if the stack is empty.
-    * `Push(int data)`: A method to add a new element to the stack.
-    * `Pop()`: A method to remove and return the top element from the stack.
-    * `Display()`: A method to print the elements of the stack from top to bottom.
-    * `Main()`: The entry point of the program, providing a menu-driven interface for interacting with the stack.
+* **Node:** Represents a single node in the linked list that forms the stack. Each node contains:
+    * **data:** An integer value stored in the node.
+    * **next:** A reference to the next node in the stack (null if it's the top node).
+* **Stack:** Implements the stack data structure. It contains:
+    * **top:** A private `Node` variable that points to the top of the stack (null if the stack is empty).
+    * **Stack():** Constructor to initialize an empty stack (sets `top` to null).
+    * **isEmpty():** A method to check if the stack is empty.
+    * **Push(int data):** A method to add a new element to the stack.
+    * **Pop():** A method to remove and return the top element from the stack.
+    * **Display():** A method to print the elements of the stack from top to bottom.
+    * **Main():** The entry point of the program, providing a menu-driven interface for interacting with the stack.
 
 ## How to Use
 
